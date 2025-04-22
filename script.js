@@ -1,4 +1,3 @@
-//your JS code here. If required.
 // Run when the page loads
 window.onload = function () {
     // Check if credentials exist in localStorage
